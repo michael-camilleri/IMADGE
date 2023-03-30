@@ -56,7 +56,7 @@ This repository contains the auto-generated observability and behaviour labels u
  > [1] M. P. J. Camilleri, “Automated Identification and Behaviour Classification for Modelling Social Dynamics in Group-Housed Mice,” PhD Thesis, University of Edinburgh, 2023.
 
  For the Tracking and Identification Module:
- > [2] M. P. J. Camilleri, L. Zhang, R. S. Bains, A. Zisserman, and C. K. I. Williams, “Persistent Object Identification Leveraging Non-Visual Markers,” CoRR (arXiv), cs.CV (2112.06809), Dec. 2021.
+ > [2] M. P. J. Camilleri, L. Zhang, R. S. Bains, A. Zisserman, and C. K. I. Williams, “Persistent Object Identification Leveraging Non-Visual Markers,” CoRR (arXiv), cs.CV (2112.06809), Dec. 2021. [Available on arXiv](https://arxiv.org/pdf/2112.06809.pdf)
 
  The raw data is courtesy of the Mary Lyon Centre at MRC Harwell, as described in:
  > [3] R. S. Bains, H. L. Cater, R. R. Sillito, A. Chartsias, D. Sneddon, D. Concas, P. Keskivali-Bond, T. C. Lukins, S. Wells, A. Acevedo Arozena, P. M. Nolan, and J. D. Armstrong. “Analysis of Individual Mouse Activity in Group Housed Animals of Different Inbred Strains using a Novel Automated Home Cage Analysis System”. In: Frontiers in Behavioral Neuroscience 10 (106) (June 2016). [Available online](https://core.ac.uk/reader/82834260)
