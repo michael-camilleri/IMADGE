@@ -20,7 +20,7 @@ This repository contains the auto-generated observability and behaviour labels u
 
 ## 2. Dataset
  * This dataset contains associated features for groups of three mice in the homecage:
-    * The data pertains to all male cages (three mice per-cage) from the C57BL/6NTac strain at the 3-month or 12-month age group. There are in total 16 unique cages: refer to [1, §3.3] for general details of the data demographics.
+    * The data pertains to all male cages (three mice per-cage) from the C57BL/6NTac strain at the 3-month or 12-month age group. There are in total 16 unique cages: refer to [1, §3.3] for general information about the data demographics and to [3] for details of the animal husbandry/data collection.
     * The features include mouse positions within the cage, locations in the image and automatically generated behaviour labels: refer to [1, §6.2] for the automated labelling process.
  * The basic unit of processing is the **Behavioural Time Interval (BTI)** (1 second duration): within this, we are interested in the behaviour of each mouse individually.
  * The data is provided for reproducibility purposes and also to allow further research on the data: for this reason, it is provided in its complete form and with minimal processing.
@@ -50,10 +50,13 @@ This repository contains the auto-generated observability and behaviour labels u
 -------------
 
 ## References
- If you find this data useful, please consider citing our work.
+ If you make use of this data, please cite our work, as below:
 
  For the general dataset:
- > [1] M. P. J. Camilleri, “Automated Identification and Behaviour Classification for Modelling Social Dynamics in Group-Housed Mice,” University of Edinburgh, 2023.
+ > [1] M. P. J. Camilleri, “Automated Identification and Behaviour Classification for Modelling Social Dynamics in Group-Housed Mice,” PhD Thesis, University of Edinburgh, 2023.
 
  For the Tracking and Identification Module:
  > [2] M. P. J. Camilleri, L. Zhang, R. S. Bains, A. Zisserman, and C. K. I. Williams, “Persistent Object Identification Leveraging Non-Visual Markers,” CoRR (arXiv), cs.CV (2112.06809), Dec. 2021.
+
+ The raw data is courtesy of the Mary Lyon Centre at MRC Harwell, as described in:
+ > [3] R. S. Bains, H. L. Cater, R. R. Sillito, A. Chartsias, D. Sneddon, D. Concas, P. Keskivali-Bond, T. C. Lukins, S. Wells, A. Acevedo Arozena, P. M. Nolan, and J. D. Armstrong. “Analysis of Individual Mouse Activity in Group Housed Animals of Different Inbred Strains using a Novel Automated Home Cage Analysis System”. In: Frontiers in Behavioral Neuroscience 10 (106) (June 2016). [Available online](https://core.ac.uk/reader/82834260)
