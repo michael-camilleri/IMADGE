@@ -1,6 +1,8 @@
-# Individual Mouse Activity Dataset for Group Environments (*IMAGE*)
+# Individual Mouse Activity Dataset for Group Environments (*IMADGE*)
 
-This repository contains the auto-generated observability and behaviour labels used to model collective mouse behaviour as in Chapter 6 of my PhD Thesis “Automated Identification and Behaviour Classification for Modelling Social Dynamics in Group-Housed Mice” [1].
+This repository contains the auto-generated observability and behaviour labels used to model collective mouse behaviour as in Chapter 6 of my PhD Thesis “Automated Identification and Behaviour Classification for Modelling Social Dynamics in Group-Housed Mice” [1]. The video recordings are courtesy of the Mary Lyon Centre at MRC Harwell [3]. 
+
+The data is released under the CC-BY 4.0 License (a copy appears as part of the repository as DATA.LICENSE).
 
 ## 1. Repository Structure
 
